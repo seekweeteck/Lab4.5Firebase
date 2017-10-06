@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750131657870",
+    "firebase_url": "https://level-abode-152805.firebaseio.com",
+    "project_id": "level-abode-152805",
+    "storage_bucket": "level-abode-152805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750131657870:android:5e840da1ffaeb2e4",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.lab45firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750131657870-q3khgmltkcaligd448qftt9fdjdha41o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.tarc.lab45firebase",
+            "certificate_hash": "c61300b484311a367136a086aeb11e7e6d8b5047"
+          }
+        },
+        {
+          "client_id": "750131657870-aq58p64phblu28ns0p276l48mqojjbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0q15_9su2qZFiWmTeJ_0bchPc-olH_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750131657870-aq58p64phblu28ns0p276l48mqojjbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
